@@ -6,8 +6,7 @@
 # Author : Simone Dellabora
 # Version 0.01
 
-#  socket.gethostbyaddr()
-
+# import module
 import sys
 import time
 import socket
