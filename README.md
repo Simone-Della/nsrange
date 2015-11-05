@@ -1,5 +1,7 @@
 # nsrange
 EXECUTE NSLOOKUP IN A RANGE OF IP
+
+
 Script that solves a range of IP in the name of a file.
 
 Exec:
