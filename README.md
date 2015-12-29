@@ -2,7 +2,7 @@
 EXECUTE NSLOOKUP IN A RANGE OF IP
 
 
-Script that solves a range of IP in the name of a file.
+Script that resolves the ip name taken from an external file.
 
 Exec:
 
