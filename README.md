@@ -1,8 +1,7 @@
 # nsrange
 EXECUTE NSLOOKUP IN A RANGE OF IP
 
-
-Script that resolves the ip name taken from an external file.
+Script that resolves the name of the IP addresses taken from an external file.
 
 Exec:
 
